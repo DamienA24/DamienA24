@@ -5,5 +5,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DamienA24&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienA24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/DamienA24/DamienA24/blob/output/github-contribution-grid-snake.svg)
-
